@@ -63,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+
         // Find the View that shows the colors category
         TextView colors = (TextView) findViewById(R.id.colors);
 
@@ -95,4 +96,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
     }
+
+
+
 }
